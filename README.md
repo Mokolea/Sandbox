@@ -5,4 +5,4 @@ Just for doing some tests ...
 xxx yyy zzz
 abc
 
-just for fun :)
+just for fun :) --> rebase not possible anymore (without conflict)
