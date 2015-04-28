@@ -1,13 +1,7 @@
 # Sandbox
 Just for doing some tests ...
 
-Hello :) xxx
+Hello :)
 
 123 456
 abc
-
-aaa bbb
-
------------
-new feature
------------
