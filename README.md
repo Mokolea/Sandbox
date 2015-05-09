@@ -14,4 +14,6 @@ Hello :)
 abc *def* ghi jkl
 **xyz**
 
+:octocat:
+
 test
