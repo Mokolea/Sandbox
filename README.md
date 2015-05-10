@@ -1,8 +1,6 @@
 # Sandbox
 Just for doing some tests ...
 
-Hello :)
-
 
 ## heading-2
 - aaa
@@ -16,7 +14,8 @@ abc *def* ghi jkl
 
 :octocat:
 
-table
+
+table :)
 
 First Header | Second Header
 ------------ | -------------
