@@ -1,7 +1,6 @@
 # Sandbox
 Just for doing some tests ...
 
-
 ## heading-2
 - aaa
   - ccc
@@ -14,6 +13,11 @@ abc *def* ghi jkl
 
 :octocat:
 
+Discover interesting projects on GitHub:
+  - [Explore page](https://github.com/explore) section
+  - [Trending page](https://github.com/trending) section
+
+My [stars page](https://github.com/stars)
 
 table
 
