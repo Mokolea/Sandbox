@@ -17,9 +17,12 @@ Discover interesting projects on GitHub:
   - [Explore page](https://github.com/explore) section
   - [Trending page](https://github.com/trending) section
 
-My [stars page](https://github.com/stars)
+More ...
+ - My [stars page](https://github.com/stars)
+ - [Notifications](https://github.com/notifications)
+ - [Watching](https://github.com/watching)
 
-table
+### table
 
 First Header | Second Header
 ------------ | -------------
