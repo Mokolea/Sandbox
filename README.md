@@ -21,6 +21,7 @@ More ...
  - My [stars page](https://github.com/stars)
  - [Notifications](https://github.com/notifications)
  - [Watching](https://github.com/watching)
+ - [Identicon](https://identicons.github.com/Mokolea.png)
 
 ### table
 
