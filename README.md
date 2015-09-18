@@ -32,7 +32,7 @@ Content column 1 | Content column 2
 
 test :)
 
-[Choosing an OSS license doesn’t need to be scary](http://choosealicense.com)
-[More licenses ...](http://choosealicense.com/licenses)
+[Choosing an OSS license doesn’t need to be scary](http://choosealicense.com), 
+[more licenses ...](http://choosealicense.com/licenses)
 
 -- Mario
