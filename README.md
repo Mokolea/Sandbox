@@ -18,10 +18,11 @@ Discover interesting projects on GitHub:
   - [Trending page](https://github.com/trending) section
 
 More ...
- - My [stars page](https://github.com/stars)
- - [Notifications](https://github.com/notifications)
- - [Watching](https://github.com/watching)
- - [Identicon](https://identicons.github.com/Mokolea.png)
+ - My [Stars](https://github.com/stars)
+ - My [Notifications](https://github.com/notifications)
+ - My [Watching](https://github.com/watching)
+ - My [Identicon](https://identicons.github.com/Mokolea.png)
+ - My [Explore Email](https://github.com/explore/subscribe) subscription
 
 ### table
 
