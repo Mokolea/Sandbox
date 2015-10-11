@@ -36,4 +36,6 @@ test :)
 [Choosing an OSS license doesn’t need to be scary](http://choosealicense.com), 
 [more licenses ...](http://choosealicense.com/licenses)
 
+Arduino IDE Library Manager: file [list](http://downloads.arduino.cc/libraries/library_index.json)
+
 -- Mario
