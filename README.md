@@ -36,6 +36,7 @@ test :)
 [Choosing an OSS license doesn’t need to be scary](http://choosealicense.com), 
 [more licenses ...](http://choosealicense.com/licenses)
 
+![Release](https://img.shields.io/github/release/Mokolea/InputDebounce.svg)
 ![shields.io](https://img.shields.io/badge/InputDebounce-v1.0.0-blue.svg)
 [![Release](https://img.shields.io/badge/InputDebounce-v1.1.0-blue.svg)](https://github.com/Mokolea/InputDebounce/releases)
 
