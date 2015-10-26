@@ -36,6 +36,9 @@ test :)
 [Choosing an OSS license doesn’t need to be scary](http://choosealicense.com), 
 [more licenses ...](http://choosealicense.com/licenses)
 
+![Release](https://img.shields.io/badge/InputDebounce-v1.1.0-blue.svg)
+![Release](https://img.shields.io/badge/SimpleQtLogger-v1.1.0--rc2-orange.svg)
+
 Arduino IDE Library Manager: file [list](http://downloads.arduino.cc/libraries/library_index.json)
 
 -- Mario
