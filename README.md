@@ -38,6 +38,8 @@ test :)
 
 ### [shields.io](http://shields.io)
 ![Release](https://img.shields.io/github/release/Mokolea/InputDebounce.svg)
+![License](https://img.shields.io/github/license/Mokolea/InputDebounce.svg)
+
 ![shields.io](https://img.shields.io/badge/InputDebounce-v1.0.0-blue.svg)
 [![Release](https://img.shields.io/badge/InputDebounce-v1.1.0-blue.svg)](https://github.com/Mokolea/InputDebounce/releases)
 
