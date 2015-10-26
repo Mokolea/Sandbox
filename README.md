@@ -36,7 +36,9 @@ test :)
 [Choosing an OSS license doesn’t need to be scary](http://choosealicense.com), 
 [more licenses ...](http://choosealicense.com/licenses)
 
+![shields.io](https://img.shields.io/badge/InputDebounce-v1.0.0-blue.svg)
 [![Release](https://img.shields.io/badge/InputDebounce-v1.1.0-blue.svg)](https://github.com/Mokolea/InputDebounce/releases)
+
 [![Release](https://img.shields.io/badge/SimpleQtLogger-v1.1.0--rc2-orange.svg)](https://github.com/Mokolea/SimpleQtLogger/releases)
 
 Arduino IDE Library Manager: file [list](http://downloads.arduino.cc/libraries/library_index.json)
