@@ -37,6 +37,8 @@ test :)
 [more licenses ...](http://choosealicense.com/licenses)
 
 ### [shields.io](http://shields.io)
+![Test](https://img.shields.io/badge/subject-status-green.svg)
+
 ![Release](https://img.shields.io/github/release/Mokolea/InputDebounce.svg)
 ![License](https://img.shields.io/github/license/Mokolea/InputDebounce.svg)
 
