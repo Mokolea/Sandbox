@@ -49,7 +49,7 @@ test :)
 
 Arduino IDE Library Manager: file [list](http://downloads.arduino.cc/libraries/library_index.json)
 
-[Issues open](https://img.shields.io/github/issues/arduino/Arduino.svg)
-[Issues](https://img.shields.io/github/issues-raw/arduino/Arduino.svg)
+![Issues open](https://img.shields.io/github/issues/arduino/Arduino.svg)
+![Issues](https://img.shields.io/github/issues-raw/arduino/Arduino.svg)
 
 -- Mario
