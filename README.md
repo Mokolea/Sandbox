@@ -47,6 +47,10 @@ test :)
 
 [![Release](https://img.shields.io/badge/SimpleQtLogger-v1.1.0--rc2-orange.svg)](https://github.com/Mokolea/SimpleQtLogger/releases)
 
+![Release](https://img.shields.io/github/release/Mokolea/SimpleQtLogger.svg)
+![License](https://img.shields.io/github/license/Mokolea/SimpleQtLogger.svg)
+![Tag](https://img.shields.io/github/tag/Mokolea/SimpleQtLogger.svg)
+
 Arduino IDE Library Manager: file [list](http://downloads.arduino.cc/libraries/library_index.json)
 
 ![Issues open](https://img.shields.io/github/issues/arduino/Arduino.svg)
