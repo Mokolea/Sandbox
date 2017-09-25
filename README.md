@@ -11,7 +11,11 @@ Just for doing some tests and experimental stuff ...
 abc *def* ghi jkl
 **xyz**
 
+GitHub [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax)
+
 :octocat:
+
+For a full list of available emoji and codes, check out [emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet).
 
 Discover interesting projects on GitHub:
   - [Explore page](https://github.com/explore) section
