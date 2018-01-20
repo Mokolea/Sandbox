@@ -59,9 +59,9 @@ test :)
 
 Arduino IDE:
  - Library Manager: file [list](http://downloads.arduino.cc/libraries/library_index.json)
- - Boards Manager:
-   - `https://adafruit.github.io/arduino-board-index/package_adafruit_index.json`
-   - `http://arduino.esp8266.com/stable/package_esp8266com_index.json`
+ - Boards Manager: [Unofficial list of 3rd party boards support urls](https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls)
+   - Adafruit: `https://adafruit.github.io/arduino-board-index/package_adafruit_index.json`
+   - ESP8266 Community: `http://arduino.esp8266.com/stable/package_esp8266com_index.json`
 
 ![Issues open](https://img.shields.io/github/issues/arduino/Arduino.svg)
 ![Issues](https://img.shields.io/github/issues-raw/arduino/Arduino.svg)
